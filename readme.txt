@@ -5,6 +5,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 Today is a sunny day.
 Creat a new branch is easy.
-creating a new branch is quick and simple. 
+creating a new branch is quick and simple.
+laoliu. 
 
 
