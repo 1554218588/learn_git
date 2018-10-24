@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std
+
+int main ()
+{
+	for(;;)
+	{
+		
+	
+	}
+	
+}
+
+int the_num_e(int n)
+{
+	int n;
+	if(n=0)return 1;
+	if(n>0)return (n-1);
+}
